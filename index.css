@@ -1,0 +1,27 @@
+h1{
+  color: blue;
+}
+p{
+  color: red;
+}
+header{
+  max-width:100%;
+  display:flex;
+  align-items:center;
+  position:fixed;
+} 
+ul{
+  list-style:none;
+  display:flex;
+  justify-content:space-evenly;
+  color:green;
+}
+nav{
+  width:50%;
+  position:fixed;
+  
+}
+.size{
+  font-size: 25px;
+  font-weight:bolder;
+}
